@@ -1,5 +1,3 @@
-const { default: _default } = require("react-redux/es/components/connect");
-
 function suma(a, b) {
     return a + b;
 }
