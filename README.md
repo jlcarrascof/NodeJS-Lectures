@@ -1,2 +1,2 @@
 # NodeJS-Lectures
-Seven lessons to practice in the third module of Henry's curriculum
+Seven lessons to practice in the third module on Henry's curriculum
