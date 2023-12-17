@@ -4,7 +4,7 @@
   "description": "",
   "main": "demo.js",
   "scripts": {
-    "start": "node operaciones.js",
+    "start": "nodemon operaciones.js",
     "pepito": "node operaciones.js"
   },
   "keywords": [],
