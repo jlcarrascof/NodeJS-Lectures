@@ -1,8 +1,5 @@
 const { suma, multiplicacion } = require('./demo');
-// import {suma, multiplicacion} from './demo.js';
+const axios = require('axios');
 
-// console.log(suma(5, 8));
-// console.log(multiplicacion(5, 8));
-
-console.log(suma(5, 8));
+console.log(suma(5, 5));
 console.log(multiplicacion(5, 8));
